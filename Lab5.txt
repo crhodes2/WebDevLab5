@@ -1,0 +1,9 @@
+Briefly explain what dependency injection is and why it is beneficial?
+-Dependency injection is the idea that one object's dependency is supplied by another. The injection is making it possible for the dependent object to use it.
+It allows the facilitation of unit testing without having to mess with your code.
+
+
+Briefly explain what unit tests are and why they are beneficial?
+Unit testing is the idea of testing smaller pieces of code for their memory usage, their functionality and the testing for bugs within the code.
+They important because they help developers and testers to work together without interference. As the developer continues their work, the tester test what they have so far
+and both exchange feedback. This makes development process faster and smoother.
